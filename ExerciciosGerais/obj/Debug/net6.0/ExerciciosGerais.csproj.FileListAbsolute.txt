@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\bin\Debug\net6.0\ExerciciosGerais.exe
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\bin\Debug\net6.0\ExerciciosGerais.deps.json
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\bin\Debug\net6.0\ExerciciosGerais.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\bin\Debug\net6.0\ExerciciosGerais.dll
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\bin\Debug\net6.0\ExerciciosGerais.pdb
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.dll
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\refint\ExerciciosGerais.dll
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.pdb
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ExerciciosGerais.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\ExerciciosGerais\ExerciciosGerais\obj\Debug\net6.0\ref\ExerciciosGerais.dll
